@@ -1,2 +1,0 @@
-# Cores no Terminal
-
